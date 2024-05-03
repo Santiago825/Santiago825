@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hola soy <a>Santiago</a> </h1> 👋
+
+<img src="https://s3-alpha.figma.com/hub/file/5068497913/6467347d-eaa6-440e-8794-78bca57084a7-cover.png" >
+
 
 <!--
 **Santiago825/Santiago825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
