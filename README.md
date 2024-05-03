@@ -1,6 +1,6 @@
 <h1>Hola soy <a>Santiago</a>  👋</h1>
 
-<img src="https://github.com/Santiago825/Santiago825/blob/main/Presentaci%C3%B3n2.jpg?raw=true" >
+<img src="https://github.com/Santiago825/Santiago825/blob/main/banner%20git.jpg?raw=true" >
 
 ## Sobre mi
 -💻 Desarrolaldor Full stack - 🖍️Especializado en Front-End🖍️
