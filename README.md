@@ -1,7 +1,14 @@
-<h1>Hola soy <a>Santiago</a> </h1> 👋
+<h1>Hola soy <a>Santiago</a>  👋</h1>
 
-<img src="https://s3-alpha.figma.com/hub/file/5068497913/6467347d-eaa6-440e-8794-78bca57084a7-cover.png" >
+<img src="https://github.com/Santiago825/Santiago825/blob/main/1657950242167.jpg?raw=true" >
+<div>
+  <button style="background: blueviolet;">Linkedin</button>
+</div>
+[![Botón](boton.png)](docs/pagina.html)
 
+
+## Sobre mi
+-💻 Desarrolaldor Full stack - 🖍️Especializado en Front-End🖍️
 
 <!--
 **Santiago825/Santiago825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
