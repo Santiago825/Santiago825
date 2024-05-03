@@ -3,7 +3,7 @@
 <img src="https://github.com/Santiago825/Santiago825/blob/main/banner%20git.jpg?raw=true" >
 
 ## Sobre mi
-Desarrollador FullStack WEB especializado en el frontend, con 1 año de experiencia en análisis, diseño, desarrollo de software utilizando tecnologías como angular, javascript, java entre otras, a su vez me destaco por mi capacidad analítica, responsabilidad y eficiencia. Me apasiona aprender cosas nuevas y valoro el apoyo de personas con amplio conocimiento para enriquecer el mío.
+Desarrollador FullStack WEB especializado en el frontend, con experiencia en análisis, diseño, desarrollo de software utilizando tecnologías como angular, javascript, java entre otras, a su vez me destaco por mi capacidad analítica, responsabilidad y eficiencia. Me apasiona aprender cosas nuevas y valoro el apoyo de personas con amplio conocimiento para enriquecer el mío.
 
 -💻 Desarrolaldor Full stack - 🖍️Especializado en Front-End🖍️
 
