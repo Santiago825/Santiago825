@@ -1,4 +1,4 @@
-![image](https://github.com/Santiago825/Santiago825/assets/109049574/73f74772-e0e5-45c5-be43-09638a125bc8)<h1>Hola soy <a>Santiago</a>  👋</h1>
+<h1>Hola soy <a>Santiago</a>  👋</h1>
 
 <img src="https://github.com/Santiago825/Santiago825/blob/main/Presentaci%C3%B3n2.jpg?raw=true" >
 
